@@ -14,6 +14,19 @@ starship fantome-gtk brave-bin
 Nordzy-cursors 
 Zafiro-Nord-Dark
 ```
+### set gtk theme:
+```
+gsettings set org.gnome.desktop.interface gtk-theme Fantome
+```
+### set cursor theme: 
+```
+gsettings set org.gnome.desktop.interface cursor-theme Nordzy-cursors
+```
+### set icon theme:
+```
+gsettings set org.gnome.desktop.interface icon-theme Zafiro-Nord-Black
+```
+
 ![20230517_20h20m32s_grim](https://github.com/saint49g/dots-hypr2/assets/131678603/fb2efcdb-cb3c-40a6-87d0-0dbf75a78061)
 ![20230517_20h20m50s_grim](https://github.com/saint49g/dots-hypr2/assets/131678603/7174a97d-773e-4b70-a8fe-ab0f19bc7432)
 ![20230517_20h33m45s_grim](https://github.com/saint49g/dots-hypr2/assets/131678603/b0336c9a-1855-479b-bddc-6c1042cb08a5)

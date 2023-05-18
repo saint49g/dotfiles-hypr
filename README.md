@@ -26,8 +26,8 @@ gsettings set org.gnome.desktop.interface cursor-theme Nordzy-cursors
 ```
 gsettings set org.gnome.desktop.interface icon-theme Zafiro-Nord-Black
 ```
+![20230518_20h53m35s_grim](https://github.com/saint49g/dots-hypr2/assets/131678603/b015eff4-1ea5-47af-9730-299bc8b503c4)
+![20230518_20h56m02s_grim](https://github.com/saint49g/dots-hypr2/assets/131678603/97d4bf25-6763-4125-9a06-a0198c2d4186)
+![20230518_20h56m20s_grim](https://github.com/saint49g/dots-hypr2/assets/131678603/14f03344-dd19-49ff-b601-f3a09c4ed062)
 
-![20230517_20h20m32s_grim](https://github.com/saint49g/dots-hypr2/assets/131678603/fb2efcdb-cb3c-40a6-87d0-0dbf75a78061)
-![20230517_20h20m50s_grim](https://github.com/saint49g/dots-hypr2/assets/131678603/7174a97d-773e-4b70-a8fe-ab0f19bc7432)
-![20230517_20h33m45s_grim](https://github.com/saint49g/dots-hypr2/assets/131678603/b0336c9a-1855-479b-bddc-6c1042cb08a5)
-![20230517_20h40m45s_grim](https://github.com/saint49g/dots-hypr2/assets/131678603/ddd949a7-88ca-4635-a1db-45755696585a)
+
